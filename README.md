@@ -1,0 +1,8 @@
+# DataAnalyst_PowerBi_Project
+"Welcome to my GitHub repository! In this project, I completed a challenging data analyst project using Power BI to create an amazing dashboard for employee retention.
+
+The project involved using Power Query to extract, transform, and load the data, data modeling, building relationships between two tables, and adding conditional columns. I also used different charts for visualizing the data and creating a dashboard for deriving insights on average monthly income stats, attrition rate, work-life balance, year since last promotion, and working hours by department and job role.
+
+This project was a great opportunity to showcase my skills as a data analyst and demonstrate my ability to use Power BI to derive insights from complex datasets.
+
+Feel free to explore the code and let me know if you have any questions or feedback. I'm always looking for ways to improve my skills and contribute to the coding and data analysis community, so don't hesitate to reach out if you have any ideas or suggestions.
